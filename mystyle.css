@@ -294,7 +294,7 @@ button{
     text-align: center;
     margin-left:140px ;
     padding: 10px; 
-    background-image: url(../resurse/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     background-size: cover;
     background-position: center;
 }
