@@ -317,7 +317,20 @@ button{
 .btn-sub {
     font-weight: bolder;
 }
-
+.icon {
+    display: flex;
+    font-weight: small;
+    width: 900px;
+    font-size: small;
+    align-items: center;
+    margin-left: 300px;
+    row-gap: 200px ;
+}
+.icon-gap{
+    display: flex;
+    align-items: right;
+    gap: 10px;
+}
 
 
 
